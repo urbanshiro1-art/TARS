@@ -1,0 +1,6 @@
+{
+  "name": "TARS",
+  "description": "A minimal, dark-themed stock market analyst and historical price chat assistant using Gemini and real-time Yahoo Finance data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
